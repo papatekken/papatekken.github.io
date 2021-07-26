@@ -2,7 +2,7 @@
   {
     "features": {
       "gender":"Male",
-      "wearGlasses":"False"
+      "wearGlasses":false
     },
     "id":"1",
     "country":"USA",
@@ -90,7 +90,7 @@
   ,{
     "features": {
       "gender":"Female",
-      "wearGlasses":"True"
+      "wearGlasses":true
     },
     "id":"2",
     "country":"United Kingdom",
@@ -150,7 +150,7 @@
   ,{
     "features": {
       "gender":"Female",
-      "wearGlasses":"False"
+      "wearGlasses":false
     },
     "id":"3",
     "country":"France",
@@ -242,7 +242,7 @@
   ,{
     "features": {
       "gender":"Male",
-      "wearGlasses":"False"
+      "wearGlasses":false
     },
     "id":"4",
     "country":"France",
@@ -354,7 +354,7 @@
   ,{
     "features": {
       "gender":"Male",
-      "wearGlasses":"False"
+      "wearGlasses":false
     },
     "id":"5",
     "country":"United Kingdom",
@@ -454,7 +454,7 @@
   ,{
     "features": {
       "gender":"Female",
-      "wearGlasses":"N"
+      "wearGlasses":false
     },
     "id":"6",
     "country":"United Kingdom",
@@ -530,7 +530,7 @@
   ,{
     "features": {
       "gender":"Male",
-      "wearGlasses":"Y"
+      "wearGlasses":true
     },
     "id":"7",
     "country":"France",
@@ -610,7 +610,7 @@
   ,{
     "features": {
       "gender":"Male",
-      "wearGlasses":"Y"
+      "wearGlasses":true
     },
     "id":"8",
     "country":"USA",
@@ -674,7 +674,7 @@
   ,{
     "features": {
       "gender":"Female",
-      "wearGlasses":"N"
+      "wearGlasses":false
     },
     "id":"9",
     "country":"United Kingdom",
@@ -754,7 +754,7 @@
   ,{
     "features": {
       "gender":"Female",
-      "wearGlasses":"Y"
+      "wearGlasses":true
     },
     "id":"10",
     "country":"France",
@@ -838,7 +838,7 @@
   ,{
     "features": {
       "gender":"Female",
-      "wearGlasses":"N"
+      "wearGlasses":false
     },
     "id":"11",
     "country":"USA",
@@ -926,7 +926,7 @@
   ,{
     "features": {
       "gender":"Male",
-      "wearGlasses":"N"
+      "wearGlasses":false
     },
     "id":"12",
     "country":"United Kingdom",
@@ -994,7 +994,7 @@
   ,{
     "features": {
       "gender":"Female",
-      "wearGlasses":"Y"
+      "wearGlasses":true
     },
     "id":"13",
     "country":"Italy",
@@ -1058,7 +1058,7 @@
   ,{
     "features": {
       "gender":"Male",
-      "wearGlasses":"N"
+      "wearGlasses":false
     },
     "id":"14",
     "country":"USA",
@@ -1126,7 +1126,7 @@
   ,{
     "features": {
       "gender":"Female",
-      "wearGlasses":"N"
+      "wearGlasses":false
     },
     "id":"15",
     "country":"France",
@@ -1210,7 +1210,7 @@
   ,{
     "features": {
       "gender":"Male",
-      "wearGlasses":"N"
+      "wearGlasses":false
     },
     "id":"16",
     "country":"USA",
@@ -1274,7 +1274,7 @@
   ,{
     "features": {
       "gender":"Female",
-      "wearGlasses":"Y"
+      "wearGlasses":true
     },
     "id":"17",
     "country":"Spain",
@@ -1338,7 +1338,7 @@
   ,{
     "features": {
       "gender":"Female",
-      "wearGlasses":"Y"
+      "wearGlasses":true
     },
     "id":"18",
     "country":"USA",
@@ -1398,7 +1398,7 @@
   ,{
     "features": {
       "gender":"Male",
-      "wearGlasses":"N"
+      "wearGlasses":false
     },
     "id":"19",
     "country":"Italy",
