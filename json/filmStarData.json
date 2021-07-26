@@ -1,7 +1,7 @@
 [
   {
     "features": {
-      "gender":Male,
+      "gender":"Male",
       "wearGlasses":"False"
     },
     "id":"1",
@@ -89,7 +89,7 @@
   }
   ,{
     "features": {
-      "gender":Female,
+      "gender":"Female",
       "wearGlasses":"True"
     },
     "id":"2",
@@ -149,7 +149,7 @@
   }
   ,{
     "features": {
-      "gender":Female,
+      "gender":"Female",
       "wearGlasses":"False"
     },
     "id":"3",
@@ -241,7 +241,7 @@
   }
   ,{
     "features": {
-      "gender":Male,
+      "gender":"Male",
       "wearGlasses":"False"
     },
     "id":"4",
@@ -353,7 +353,7 @@
   }
   ,{
     "features": {
-      "gender":Male,
+      "gender":"Male",
       "wearGlasses":"False"
     },
     "id":"5",
@@ -453,7 +453,7 @@
   }
   ,{
     "features": {
-      "gender":Female,
+      "gender":"Female",
       "wearGlasses":"N"
     },
     "id":"6",
@@ -529,7 +529,7 @@
   }
   ,{
     "features": {
-      "gender":Male,
+      "gender":"Male",
       "wearGlasses":"Y"
     },
     "id":"7",
@@ -609,7 +609,7 @@
   }
   ,{
     "features": {
-      "gender":Male,
+      "gender":"Male",
       "wearGlasses":"Y"
     },
     "id":"8",
@@ -673,7 +673,7 @@
   }
   ,{
     "features": {
-      "gender":Female,
+      "gender":"Female",
       "wearGlasses":"N"
     },
     "id":"9",
@@ -753,7 +753,7 @@
   }
   ,{
     "features": {
-      "gender":Female,
+      "gender":"Female",
       "wearGlasses":"Y"
     },
     "id":"10",
@@ -837,7 +837,7 @@
   }
   ,{
     "features": {
-      "gender":Female,
+      "gender":"Female",
       "wearGlasses":"N"
     },
     "id":"11",
@@ -925,7 +925,7 @@
   }
   ,{
     "features": {
-      "gender":Male,
+      "gender":"Male",
       "wearGlasses":"N"
     },
     "id":"12",
@@ -993,7 +993,7 @@
   }
   ,{
     "features": {
-      "gender":Female,
+      "gender":"Female",
       "wearGlasses":"Y"
     },
     "id":"13",
@@ -1057,7 +1057,7 @@
   }
   ,{
     "features": {
-      "gender":Male,
+      "gender":"Male",
       "wearGlasses":"N"
     },
     "id":"14",
@@ -1125,7 +1125,7 @@
   }
   ,{
     "features": {
-      "gender":Female,
+      "gender":"Female",
       "wearGlasses":"N"
     },
     "id":"15",
@@ -1209,7 +1209,7 @@
   }
   ,{
     "features": {
-      "gender":Male,
+      "gender":"Male",
       "wearGlasses":"N"
     },
     "id":"16",
@@ -1273,7 +1273,7 @@
   }
   ,{
     "features": {
-      "gender":Female,
+      "gender":"Female",
       "wearGlasses":"Y"
     },
     "id":"17",
@@ -1337,7 +1337,7 @@
   }
   ,{
     "features": {
-      "gender":Female,
+      "gender":"Female",
       "wearGlasses":"Y"
     },
     "id":"18",
@@ -1397,7 +1397,7 @@
   }
   ,{
     "features": {
-      "gender":Male,
+      "gender":"Male",
       "wearGlasses":"N"
     },
     "id":"19",
