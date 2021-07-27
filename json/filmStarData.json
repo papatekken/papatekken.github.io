@@ -1,10 +1,11 @@
 [
   {
     "features": {
-      "gender":"Male",
+      "WithBeard":true,	
       "wearGlasses":false
     },
     "id":"1",
+	"gender":"Male",
     "country":"USA",
     "numAward":"15",
     "netWorth":"182M",
@@ -89,10 +90,11 @@
   }
   ,{
     "features": {
-      "gender":"Female",
+      "WithBeard":false,	
       "wearGlasses":true
     },
     "id":"2",
+	"gender":"Female",
     "country":"United Kingdom",
     "numAward":"3",
     "netWorth":"565M",
@@ -149,10 +151,11 @@
   }
   ,{
     "features": {
-      "gender":"Female",
+      "WithBeard":false,	
       "wearGlasses":false
     },
     "id":"3",
+	"gender":"Female",
     "country":"France",
     "numAward":"14",
     "netWorth":"290M",
@@ -241,10 +244,11 @@
   }
   ,{
     "features": {
-      "gender":"Male",
+      "WithBeard":false,	
       "wearGlasses":false
     },
     "id":"4",
+	"gender":"Male",	
     "country":"France",
     "numAward":"10",
     "netWorth":"453M",
@@ -353,10 +357,12 @@
   }
   ,{
     "features": {
-      "gender":"Male",
+      "WithBeard":false,	
       "wearGlasses":false
     },
+	
     "id":"5",
+	"gender":"Male",		
     "country":"United Kingdom",
     "numAward":"3",
     "netWorth":"459M",
@@ -453,10 +459,11 @@
   }
   ,{
     "features": {
-      "gender":"Female",
+      "WithBeard":false,	
       "wearGlasses":false
     },
     "id":"6",
+	"gender":"Female",	
     "country":"United Kingdom",
     "numAward":"2",
     "netWorth":"509M",
@@ -529,10 +536,11 @@
   }
   ,{
     "features": {
-      "gender":"Male",
+      "WithBeard":true,	
       "wearGlasses":true
     },
     "id":"7",
+	"gender":"Male",	
     "country":"France",
     "numAward":"1",
     "netWorth":"693M",
@@ -609,10 +617,11 @@
   }
   ,{
     "features": {
-      "gender":"Male",
+      "WithBeard":false,	
       "wearGlasses":true
     },
     "id":"8",
+	"gender":"Male",	
     "country":"USA",
     "numAward":"16",
     "netWorth":"140M",
@@ -673,10 +682,11 @@
   }
   ,{
     "features": {
-      "gender":"Female",
+      "WithBeard":false,	
       "wearGlasses":false
     },
     "id":"9",
+	"gender":"Female",	
     "country":"United Kingdom",
     "numAward":"20",
     "netWorth":"492M",
@@ -753,10 +763,11 @@
   }
   ,{
     "features": {
-      "gender":"Female",
+      "WithBeard":false,	
       "wearGlasses":true
     },
     "id":"10",
+	"gender":"Female",
     "country":"France",
     "numAward":"7",
     "netWorth":"544M",
@@ -837,10 +848,11 @@
   }
   ,{
     "features": {
-      "gender":"Female",
+      "WithBeard":false,	
       "wearGlasses":false
     },
     "id":"11",
+	"gender":"Female",	
     "country":"USA",
     "numAward":"20",
     "netWorth":"598M",
@@ -925,10 +937,11 @@
   }
   ,{
     "features": {
-      "gender":"Male",
+      "WithBeard":true,	
       "wearGlasses":false
     },
     "id":"12",
+	"gender":"Male",	
     "country":"United Kingdom",
     "numAward":"17",
     "netWorth":"515M",
@@ -993,10 +1006,11 @@
   }
   ,{
     "features": {
-      "gender":"Female",
+      "WithBeard":false,	
       "wearGlasses":true
     },
     "id":"13",
+	"gender":"Female",	
     "country":"Italy",
     "numAward":"8",
     "netWorth":"456M",
@@ -1057,10 +1071,11 @@
   }
   ,{
     "features": {
-      "gender":"Male",
+      "WithBeard":true,	
       "wearGlasses":false
     },
     "id":"14",
+	"gender":"Male",	
     "country":"USA",
     "numAward":"10",
     "netWorth":"301M",
@@ -1125,10 +1140,11 @@
   }
   ,{
     "features": {
-      "gender":"Female",
+      "WithBeard":false,	
       "wearGlasses":false
     },
     "id":"15",
+	"gender":"Female",	
     "country":"France",
     "numAward":"15",
     "netWorth":"463M",
@@ -1209,10 +1225,11 @@
   }
   ,{
     "features": {
-      "gender":"Male",
+      "WithBeard":false,	
       "wearGlasses":false
     },
     "id":"16",
+	"gender":"Male",	
     "country":"USA",
     "numAward":"10",
     "netWorth":"18M",
@@ -1273,10 +1290,11 @@
   }
   ,{
     "features": {
-      "gender":"Female",
+      "WithBeard":false,	
       "wearGlasses":true
     },
     "id":"17",
+	"gender":"Female",	
     "country":"Spain",
     "numAward":"9",
     "netWorth":"457M",
@@ -1337,10 +1355,11 @@
   }
   ,{
     "features": {
-      "gender":"Female",
+      "WithBeard":false,	
       "wearGlasses":true
     },
     "id":"18",
+	"gender":"Female",	
     "country":"USA",
     "numAward":"11",
     "netWorth":"275M",
@@ -1397,10 +1416,11 @@
   }
   ,{
     "features": {
-      "gender":"Male",
+      "WithBeard":true,	
       "wearGlasses":false
     },
     "id":"19",
+	"gender":"Male",	
     "country":"Italy",
     "numAward":"4",
     "netWorth":"268M",
