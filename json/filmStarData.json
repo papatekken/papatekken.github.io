@@ -1,7 +1,7 @@
 [
   {
     "features": {
-      "WithBeard":true,	
+      "withBeard":true,	
       "wearGlasses":false
     },
     "id":"1",
@@ -90,7 +90,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":true
     },
     "id":"2",
@@ -151,7 +151,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":false
     },
     "id":"3",
@@ -244,7 +244,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":false
     },
     "id":"4",
@@ -357,7 +357,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":false
     },
 	
@@ -459,7 +459,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":false
     },
     "id":"6",
@@ -536,7 +536,7 @@
   }
   ,{
     "features": {
-      "WithBeard":true,	
+      "withBeard":true,	
       "wearGlasses":true
     },
     "id":"7",
@@ -617,7 +617,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":true
     },
     "id":"8",
@@ -682,7 +682,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":false
     },
     "id":"9",
@@ -763,7 +763,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":true
     },
     "id":"10",
@@ -848,7 +848,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":false
     },
     "id":"11",
@@ -937,7 +937,7 @@
   }
   ,{
     "features": {
-      "WithBeard":true,	
+      "withBeard":true,	
       "wearGlasses":false
     },
     "id":"12",
@@ -1006,7 +1006,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":true
     },
     "id":"13",
@@ -1071,7 +1071,7 @@
   }
   ,{
     "features": {
-      "WithBeard":true,	
+      "withBeard":true,	
       "wearGlasses":false
     },
     "id":"14",
@@ -1140,7 +1140,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":false
     },
     "id":"15",
@@ -1225,7 +1225,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":false
     },
     "id":"16",
@@ -1290,7 +1290,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":true
     },
     "id":"17",
@@ -1355,7 +1355,7 @@
   }
   ,{
     "features": {
-      "WithBeard":false,	
+      "withBeard":false,	
       "wearGlasses":true
     },
     "id":"18",
@@ -1416,7 +1416,7 @@
   }
   ,{
     "features": {
-      "WithBeard":true,	
+      "withBeard":true,	
       "wearGlasses":false
     },
     "id":"19",
